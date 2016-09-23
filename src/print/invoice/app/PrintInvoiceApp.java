@@ -31,7 +31,7 @@ public class PrintInvoiceApp
         //Accept inputs
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your name: ");
-        String name = input.nextLine(); // getting a String value
+        String name = input.nextLine();  // getting a String value
 
         for(int i=1; i<4; i++)
         {
